@@ -1,0 +1,6 @@
+ipykernel
+pandas
+scikit-learn
+numpy
+matplotlib
+kagglehub[pandas-datasets]

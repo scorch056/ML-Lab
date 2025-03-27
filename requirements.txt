@@ -3,3 +3,8 @@ numpy
 matplotlib
 scikit-learn
 seaborn
+tensorflow
+flwr
+flwr-datasets
+xgboost
+catboost
